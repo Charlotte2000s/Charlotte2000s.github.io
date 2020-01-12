@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/"/>
-  <updated>2019-10-09T09:36:45.256Z</updated>
+  <updated>2020-01-12T09:27:38.399Z</updated>
   <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vacation-plan</title>
+    <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/01/12/vacation-plan/"/>
+    <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/01/12/vacation-plan/</id>
+    <published>2020-01-12T09:21:54.000Z</published>
+    <updated>2020-01-12T09:27:38.399Z</updated>
+    
+    <content type="html"><![CDATA[<p>​        终于盼来了假期……这个学期成绩又炸了，要努力学习了 呜呜呜 寒假准备学点东西 嘿嘿。</p><p>​        <strong>1.</strong>    Matlab（计算方法，工程计算）</p><p>​        <strong>2. </strong>    概率论（免修考试）</p><p>​        <strong>3.</strong>    数字信号处理</p><p>​        <strong>4.</strong>    数据库实验</p><p>​        <strong>5.</strong>    stm32</p><p>​        <strong>6.</strong>    计算机组成原理</p><p>​        <strong>7.</strong>    程序设计实践（Python机器学习，C++，JAVA）</p><p>​        <strong>8.</strong>    英语</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​        终于盼来了假期……这个学期成绩又炸了，要努力学习了 呜呜呜 寒假准备学点东西 嘿嘿。&lt;/p&gt;
+&lt;p&gt;​        &lt;strong&gt;1.&lt;/strong&gt;    Matlab（计算方法，工程计算）&lt;/p&gt;
+&lt;p&gt;​        &lt;strong&gt;2. &lt;
+      
+    
+    </summary>
+    
+    
+      <category term="Plans" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/categories/Plans/"/>
+    
+    
+      <category term="Plans" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/Plans/"/>
+    
+  </entry>
   
   <entry>
     <title>verilog_secret_box</title>
