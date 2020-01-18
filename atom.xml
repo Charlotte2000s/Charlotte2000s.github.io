@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/"/>
-  <updated>2020-01-18T14:09:11.637Z</updated>
+  <updated>2020-01-18T14:33:24.445Z</updated>
   <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>blog_get_started</title>
+    <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/01/18/blog-get-started/"/>
+    <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/01/18/blog-get-started/</id>
+    <published>2020-01-18T14:31:03.000Z</published>
+    <updated>2020-01-18T14:33:24.445Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    这个是Hexo+Github Pages+购买域名的建站教程：</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​    这个是Hexo+Github Pages+购买域名的建站教程：&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="blog" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/blog/"/>
+    
+      <category term="tutorial" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/tutorial/"/>
+    
+  </entry>
   
   <entry>
     <title>Vacation_Plan</title>

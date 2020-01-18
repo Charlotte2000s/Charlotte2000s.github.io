@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[blog_get_started]]></title>
+    <url>%2F2020%2F01%2F18%2Fblog-get-started%2F</url>
+    <content type="text"><![CDATA[​ 这个是Hexo+Github Pages+购买域名的建站教程：]]></content>
+      <tags>
+        <tag>blog</tag>
+        <tag>tutorial</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Vacation_Plan]]></title>
     <url>%2F2020%2F01%2F12%2FVacation_Plan%2F</url>
     <content type="text"><![CDATA[​ 终于盼来了假期……这个学期成绩又炸了，要努力学习了 呜呜呜 寒假准备学点东西 嘿嘿。 ​ 1. Matlab（计算方法，工程计算） ​ 2. 概率论（免修考试） ​ 3. 数字信号处理 ​ 4. 数据库实验 ​ 5. stm32 ​ 6. 计算机组成原理 ​ 7. 程序设计实践（Python机器学习，C++，JAVA） ​ 8. 英语]]></content>
