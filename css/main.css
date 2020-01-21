@@ -1276,7 +1276,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #427a67;
+  background: #ba91ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1662,14 +1662,7 @@ pre .javascript .function {
   margin-top: 40px;
   text-align: center;
 }
-.use-motion .post_block {
-  opacity: 0;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
+.use-motion .post_block,
 .use-motion .pagination,
 .use-motion .comments {
   opacity: 0;
@@ -2420,7 +2413,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .header-inner {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   overflow: hidden;
@@ -2455,7 +2448,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .content-wrap {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   box-sizing: border-box;
@@ -2471,7 +2464,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .sidebar {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.7);
   box-shadow: none;
   float: left;
   position: static;
@@ -2644,7 +2637,7 @@ ul.breadcrumb li + li:last-child {
   color: #222;
 }
 .sidebar-inner {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   box-sizing: border-box;
