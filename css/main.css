@@ -180,22 +180,22 @@ h6 {
   padding: 0;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 1.475em;
 }
 h2 {
-  font-size: 1.375em;
+  font-size: 1.35em;
 }
 h3 {
-  font-size: 1.25em;
+  font-size: 1.225em;
 }
 h4 {
-  font-size: 1.125em;
+  font-size: 1.1em;
 }
 h5 {
-  font-size: 1em;
+  font-size: 0.975em;
 }
 h6 {
-  font-size: 0.875em;
+  font-size: 0.85em;
 }
 p {
   margin: 0 0 20px 0;
@@ -1276,7 +1276,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c39d46;
+  background: #c6d121;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1638,7 +1638,7 @@ pre .javascript .function {
 }
 @media (min-width: 1200px) {
   .post-body {
-    font-size: 1.125em;
+    font-size: 1em;
   }
 }
 .post-body span.exturl .fa {
@@ -1688,7 +1688,7 @@ pre .javascript .function {
   }
 }
 .posts-collapse .collection-title {
-  font-size: 1.125em;
+  font-size: 1em;
   position: relative;
 }
 .posts-collapse .collection-title::before {
@@ -1909,7 +1909,7 @@ article:last-child .post-eof {
   border: 0;
 }
 .posts-expand .post-header {
-  font-size: 1.125em;
+  font-size: 1em;
 }
 .posts-expand .post-title {
   overflow-wrap: break-word;
@@ -2722,4 +2722,52 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
+}
+.post-wordcount {
+  display: inline-block;
+}
+.copyright {
+  display: inline;
+}
+code {
+  color: #d3055c;
+  background: #fbf7f8;
+  margin: 2px;
+}
+.highlight,
+pre {
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 3px;
+}
+.highlight,
+code,
+pre {
+  border: 1px solid #d6d6d6;
+}
+article {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+.post-button {
+  margin-top: 30px;
+  text-align: center;
+}
+.post-button .btn {
+  color: #fff;
+  font-size: 15px;
+  background: #686868;
+  border-radius: 16px;
+  line-height: 2;
+  margin: 0 4px 8px 4px;
+  padding: 0 20px;
+}
+.post-button a {
+  border-bottom: 1px solid #666;
+}
+.post-button a:hover {
+  color: #7784ba;
 }
