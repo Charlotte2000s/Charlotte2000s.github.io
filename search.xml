@@ -16,7 +16,7 @@
   <entry>
     <title><![CDATA[blog_get_started]]></title>
     <url>%2F2020%2F01%2F18%2Fblog-get-started%2F</url>
-    <content type="text"><![CDATA[1. 添加动态背景先git clone, 接着改config.yml 中为true即可 2. 背景透明度调整参考此博客]]></content>
+    <content type="text"><![CDATA[1. 添加动态背景先git clone, 接着改config.yml 中为true即可 2. 背景透明度调整参考此博客 3.添加板娘见此教程]]></content>
       <categories>
         <category>Tutorial</category>
       </categories>
