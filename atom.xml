@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/"/>
-  <updated>2020-02-01T15:25:38.696Z</updated>
+  <updated>2020-02-01T15:21:37.706Z</updated>
   <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/</id>
   
   <author>
@@ -15,52 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>matlab编程基础与工程应用</title>
-    <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/02/01/matlab%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%BA%94%E7%94%A8/"/>
-    <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/02/01/matlab编程基础与工程应用/</id>
-    <published>2020-02-01T15:25:13.000Z</published>
-    <updated>2020-02-01T15:25:38.696Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="Programing" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/categories/Programing/"/>
-    
-      <category term="Matlab" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/categories/Programing/Matlab/"/>
-    
-    
-      <category term="Programing" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/Programing/"/>
-    
-      <category term="Matlab" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/Matlab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Matlab数值计算</title>
-    <link href="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/02/01/Matlab%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97/"/>
-    <id>https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/2020/02/01/Matlab数值计算/</id>
-    <published>2020-02-01T15:23:28.000Z</published>
-    <updated>2020-02-01T15:24:47.682Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="Programing" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/categories/Programing/"/>
-    
-      <category term="Matlab" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/categories/Programing/Matlab/"/>
-    
-    
-      <category term="Programing" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/Programing/"/>
-    
-      <category term="Matlab" scheme="https://github.com/Charlotte2000s/Charlotte2000s.github.io.git/tags/Matlab/"/>
-    
-  </entry>
   
   <entry>
     <title>MySQL</title>
